@@ -1,6 +1,6 @@
 # Responsive-Website
 
-Simple responsive website with html and css.
+Responsive website with html and css.
 
 #Screenshot:
 
